@@ -85,7 +85,7 @@ This script encrypts files in `data/` using a simple symmetric algorithm (`crypt
 
 ## 🔗 Useful References
 
-- [RTrap Research Paper (IEEE)](https://ieeexplore.ieee.org/document/10063417)
+- [RTrap Research Paper (IEEE)](https://ieeexplore.ieee.org/document/10026355)
 - [Affinity Propagation in scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AffinityPropagation.html)
 - [Watchdog Docs (Python file monitoring)](https://python-watchdog.readthedocs.io/en/latest/)
 - [psutil Docs (Process inspection)](https://psutil.readthedocs.io/en/latest/)
@@ -105,7 +105,7 @@ This script encrypts files in `data/` using a simple symmetric algorithm (`crypt
 ## 🧑‍💻 Author
 
 Manvendra K Singh — *For learning & research purposes only*  
-[LinkedIn](https://www.linkedin.com/in/priyanshu-acharya-19164b255)
+[LinkedIn]([https://www.linkedin.com/in/priyanshu-acharya-19164b255](https://www.linkedin.com/in/manvendrasingh07))
 
 ---
 
