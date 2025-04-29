@@ -1,7 +1,7 @@
 
 # RTrap — Ransomware Detection and Containment System (Python Research Prototype)
 
-**RTrap** is a machine-learning-based deception system that traps ransomware by using intelligently generated decoy files and real-time monitoring to contain attacks. This project is a beginner-friendly Python implementation based on the IEEE paper [“RTrap: Trapping and Containing Ransomware With Machine Learning”](https://ieeexplore.ieee.org/document/10063417).
+**RTrap** is a machine-learning-based deception system that traps ransomware by using intelligently generated decoy files and real-time monitoring to contain attacks. This project is a beginner-friendly Python implementation based on the IEEE paper [“RTrap: Trapping and Containing Ransomware With Machine Learning”](https://ieeexplore.ieee.org/document/10026355).
 
 ---
 
