@@ -105,7 +105,7 @@ This script encrypts files in `data/` using a simple symmetric algorithm (`crypt
 ## 🧑‍💻 Author
 
 Manvendra K Singh — *For learning & research purposes only*  
-[LinkedIn]([https://www.linkedin.com/in/priyanshu-acharya-19164b255](https://www.linkedin.com/in/manvendrasingh07))
+[LinkedIn](https://www.linkedin.com/in/manvendrasingh07)
 
 ---
 
